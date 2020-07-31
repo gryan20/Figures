@@ -33,6 +33,7 @@ public class figures {
 		while (true)
 		{
 			//Display all the Menu options
+			System.out.println(" ");
 			System.out.println("MENU:");
 			System.out.println("1. Print box");
 			System.out.println("2. Print Diamond");

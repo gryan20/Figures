@@ -23,7 +23,7 @@ public class figures {
 		//Heading comment
 		System.out.println("Programming Fundamentals: Summer Session 2");
 		System.out.println("Name: Gabby Ryan");
-		System.out.println("Date Submitted: 7/31/2020");
+		System.out.println("Date Submitted: 8/1/2020");
 		System.out.println("Programming Assignment 2 - Figures");
 		System.out.println(" ");
 		
